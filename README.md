@@ -1,2 +1,2 @@
 # CSE232
-Single and multi-threaded server-clinet socket programs in C. Performance differences were computed using the Perf tool
+Single and multi-threaded server-client socket programs in C. Performance differences were computed using the Perf tool
