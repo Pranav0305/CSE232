@@ -1,2 +1,2 @@
 # CSE232
-CSE232 Assignments
+Single and multi-threaded server-clinet socket programs in C. Performance differences were computed using the Perf tool
